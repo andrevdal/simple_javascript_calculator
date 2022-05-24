@@ -1,35 +1,36 @@
-body{
-    margin: 0;
+body {
+  margin: 0;
 }
-div{
-    text-align: center;
-    margin: auto;
-    width: 15%;
-    height: 5%;
-    background-color: grey;
-
+div {
+  text-align: center;
+  margin: auto;
+  width: 15%;
+  height: 5%;
+  background-color: grey;
 }
-p{
-    background-color: white;
-    width: 50%;
-    margin: auto;
+p {
+  background-color: white;
+  width: 93%;
+  height: 90%;
+  margin: auto;
+  vertical-align: middle;
 }
-table{
-    width: 15%;
-    height: 30%;
-    margin: auto;
-    background-color: grey;
-    empty-cells: hide;
+table {
+  width: 15%;
+  height: 30%;
+  margin: auto;
+  background-color: grey;
+  empty-cells: hide;
 }
-td{
-    background-color: whitesmoke;
-    border: 1px solid black;
-    text-align: center;
+td {
+  background-color: whitesmoke;
+  border: 1px solid black;
+  text-align: center;
 }
-td:hover{
-    background-color: grey;
-    border: 1px solid black;
-    color: red;
-    text-align: center;
-    cursor: pointer;
+td:hover {
+  background-color: grey;
+  border: 1px solid black;
+  color: red;
+  text-align: center;
+  cursor: pointer;
 }
