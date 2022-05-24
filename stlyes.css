@@ -26,9 +26,10 @@ td{
     border: 1px solid black;
     text-align: center;
 }
-td :hover{
-    background-color: black;
+td:hover{
+    background-color: grey;
     border: 1px solid black;
-    color: white;
+    color: red;
     text-align: center;
+    cursor: pointer;
 }
